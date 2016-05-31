@@ -2,7 +2,7 @@ public static void startAddWithCustomer(Activity activity, String customCode,
                                             String customName) {
         if (TextUtils.isEmpty(customCode)) {
             throw new NullPointerException("customCode could not be null");
-            123489
+            123
         }
         if (TextUtils.isEmpty(customName)) {
         }
